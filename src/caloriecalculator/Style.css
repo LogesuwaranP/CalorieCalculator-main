@@ -1,0 +1,17 @@
+.box{
+
+    width: 500px;
+    height: 500px;
+    margin: 100px;
+    display: flex;
+    background-color: bisque;
+}
+
+.box1{
+
+    width: 50px;
+    height: 50px;
+    margin: 50px;
+
+    background-color: blueviolet;
+}
