@@ -4,7 +4,8 @@ const App=()=>{
     
     return(
         <div>
-            <Display />            
+            <Display />           
+            
         </div>
     )
 }

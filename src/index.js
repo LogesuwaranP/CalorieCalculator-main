@@ -2,9 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import './App.css';
-import Advice from './caloriecalculator/Advice';
 import reportWebVitals from './reportWebVitals';
-import Display from './caloriecalculator/Display';
 import App from './App';
 
 
